@@ -4,6 +4,7 @@
 
 ## Features
 
+
 - Recursively browse files in the chosen directory.
 - Supports help (`-h`/`--help`) and version (`-v`/`--version`) output.
 - Error messages for unable to open individual files or filesystem issues.
